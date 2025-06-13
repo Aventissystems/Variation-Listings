@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Variation Listings</title>
+    <link rel="stylesheet" type="text/css" target="_blank" href="index.css">
+  </head>
+  <body>
+  	<h1>Variation Listings</h1>
+    <h2>How to Convert Spreadsheet to JSON</h2>
+    <p>
+      This guide will walk you through the steps to convert a spreadsheet to a
+      JSON format.
+    </p>
+    <h2>Steps:</h2>
+    <ol>
+      <li>
+        <strong>Download the Spreadsheet as CSV</strong>:
+        <ul>
+          <li>
+            Open the spreadsheet that contains the data for all products.
+          </li>
+          <li>
+            From the top navigation bar, go to <code>File</code> → <code>Download</code>.
+          </li>
+          <li>
+            Select <code>Comma Separated Values (.csv)</code> as the download option.
+          </li>
+        </ul>
+      </li>
+      <li>
+        <strong>Upload the CSV File for Conversion</strong>:
+        <ul>
+          <li>
+            After downloading the CSV file, go to <a target="_blank" href="https://www.convertcsv.com/csv-to-json.htm">CSV to JSON Converter</a>.
+          </li>
+          <li>
+            Under "Step 1: Select your input" section click on <code>Choose File</code> button and upload the CSV file you downloaded earlier.
+          </li>
+          <li>
+            Once the file is uploaded, scroll down to the "Step 5: Generate output" section.
+          </li>
+          <li>
+            Click on <code>Download Result</code> to download the resulting JSON file.
+          </li>
+        </ul>
+      </li>
+    </ol>
+    <h2>Setting the JSON File and Validating:</h2>
+    <ol>
+      <li>
+        Open the JSON file using any code/text editor and remove the first empty object for the geaders and save the file.
+      </li>
+      <li>
+        Go to <a target="_blank" href="https://jsonlint.com/">JSON validator</a>. 
+      </li>
+      <li>
+        Paste the JSON code and click on <code>Validate JSON</code> to check validity of your JSON.
+      </li>
+    </ol>
+    <h2>Understanding the JSON structure</h2>
+    <p>
+      The JSON structure will contain an array of objects, where each object
+      represents a row from your spreadsheet. Here's an example of how the JSON
+      will be structured:
+    </p>
+    <pre><code>[
+    {
+        "url": "https://www.aventissystems.com/dell-p1424h-14-ips-type-c-lcd-portable-monitor/",
+        "options": {
+            "Choose Screen Size (inches)": [
+                {
+                    "option": "14-inch",
+                    "link": "https://www.aventissystems.com/dell-p1424h-14-ips-type-c-lcd-portable-monitor/"
+                },
+                {
+                    "option": "24-inch",
+                    "link": "https://www.aventissystems.com/dell-p2423d-24-ips-qhd-1440p-monitor/"
+                },
+                {
+                    "option": "27-inch",
+                    "link": "https://www.aventissystems.com/dell-p2723d-27-ips-qhd-1440p-monitor/"
+                },
+                {
+                    "option": "32-inch",
+                    "link": "https://www.aventissystems.com/dell-p3223de-32-qhd-usb-c-hub-monitor/"
+                },
+                {
+                    "option": "34-inch",
+                    "link": "https://www.aventissystems.com/dell-p3424we-34-curved-usb-c-hub-monitor/"
+                }
+            ]
+        }
+    }
+]
+</code></pre>
+    <ol>
+      <li>
+        <strong>url</strong>
+        <ul>
+          <li>Represents the primary URL of the product.</li>
+        </ul>
+      </li>
+      <li>
+        <strong>options</strong>
+        <ul>
+          <li>
+            Contains different available options for the product variants (such
+            as Screen Size).
+            <ul>
+              <li>
+                option
+                <ul>
+                  <li>
+                    Describes the specific choice within the variant (e.g.,
+                    "14-inch").
+                  </li>
+                </ul>
+              </li>
+              <li>
+                link
+                <ul>
+                  <li>Direct URL to the specific variant or option.</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ol>
+  </body>
+</html>
