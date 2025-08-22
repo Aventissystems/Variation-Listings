@@ -1,0 +1,1101 @@
+[
+  {
+    "url": "https://www.aventissystems.com/dl380g10-servers-hpe/",
+    "chassisOptions": [
+      {
+        "value": "8 x 2.5\" HotSwap SAS, SATA",
+        "hardDriveOptions": [
+          "- none -",
+          "-- SAS Hard Drives --",
+          "1.2TB (4 x 300GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $280.00)",
+          "2.4TB (4 x 600GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $440.00)",
+          "2.4TB (8 x 300GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $560.00)",
+          "3.6TB (4 x 900GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $1,440.00)",
+          "4TB (4 x 1TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $560.00)",
+          "4.8TB (4 x 1.2TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $440.00)",
+          "4.8TB (8 x 600GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $880.00)",
+          "7.2TB (4 x 1.8TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $1,280.00)",
+          "7.2TB (8 x 900GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $2,880.00)",
+          "8TB (4 x 2TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $840.00)",
+          "8TB (8 x 1TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $1,120.00)",
+          "9.6TB (4 x 2.4TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $1,420.00)",
+          "9.6TB (8 x 1.2TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $880.00)",
+          "14.4TB (8 x 1.8TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $2,560.00)",
+          "16TB (8 x 2TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $1,680.00)",
+          "19.2TB (8 x 2.4TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $2,840.00)",
+          "-- SATA SSD Hard Drives --",
+          "1.92TB (4 x 480GB) 6Gb/s SATA Solid State Drive (Add $440.00)",
+          "3.84TB (4 x 960GB) 6Gb/s SATA Solid State Drive (Add $720.00)",
+          "3.84TB (8 x 480GB) 6Gb/s SATA Solid State Drive (Add $880.00)",
+          "7.68TB (4 x 1.92TB) 6Gb/s SATA Solid State Drive (Add $1,000.00)",
+          "7.68TB (8 x 960GB) 6Gb/s SATA Solid State Drive (Add $1,440.00)",
+          "15.36TB (4 x 3.84TB) 6Gb/s SATA Solid State Drive (Add $2,000.00)",
+          "15.36TB (8 x 1.92TB) 6Gb/s SATA Solid State Drive (Add $2,000.00)",
+          "30.72TB (8 x 3.84TB) 6Gb/s SATA Solid State Drive (Add $4,000.00)",
+          "-- SAS SSD Hard Drives --",
+          "1.6TB (4 x 400GB) 12Gb/s SAS Solid State Drive (Add $1,140.00)",
+          "3.2TB (4 x 800GB) 12Gb/s SAS Solid State Drive (Add $1,720.00)",
+          "3.2TB (8 x 400GB) 12Gb/s SAS Solid State Drive (Add $2,280.00)",
+          "3.84TB (4 x 960GB) 12Gb/s SAS Solid State Drive (Add $2,280.00)",
+          "6.4TB (8 x 800GB) 12Gb/s SAS Solid State Drive (Add $3,440.00)",
+          "7.68TB (4 x 1.92TB) 12Gb/s SAS Solid State Drive (Add $2,860.00)",
+          "7.68TB (8 x 960GB) 12Gb/s SAS Solid State Drive (Add $4,560.00)",
+          "15.36TB (4 x 3.84TB) 12Gb/s SAS Solid State Drive (Add $3,440.00)",
+          "15.36TB (8 x 1.92TB) 12Gb/s SAS Solid State Drive (Add $5,720.00)",
+          "30.72TB (4 x 7.68TB) 12Gb/s SAS Solid State Drive (Add $6,860.00)",
+          "30.72TB (8 x 3.84TB) 12Gb/s SAS Solid State Drive (Add $6,880.00)",
+          "61.44TB (8 x 7.68TB) 12Gb/s SAS Solid State Drive (Add $13,720.00)"
+        ]
+      },
+      {
+        "value": "24 x 2.5\" HotSwap SAS, SATA",
+        "hardDriveOptions": [
+          "- none -",
+          "-- SAS Hard Drives --",
+          "4.8TB (16 x 300GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $1,120.00)",
+          "7.2TB (24 x 300GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $1,680.00)",
+          "9.6TB (16 x 600GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $1,760.00)",
+          "14.4TB (16 x 900GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $5,760.00)",
+          "14.4TB (24 x 600GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $2,640.00)",
+          "16TB (16 x 1TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $2,240.00)",
+          "19.2TB(16 x 1.2TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $1,760.00)",
+          "21.6TB (24 x 900GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $8,640.00)",
+          "24TB (24 x 1TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $3,360.00)",
+          "28.8TB(16 x 1.8TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $5,120.00)",
+          "28.8TB (24 x 1.2TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $2,640.00)",
+          "32TB (16 x 2TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $3,360.00)",
+          "38.4TB(16 x 2.4TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $5,680.00)",
+          "43.2TB (24 x 1.8TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $7,680.00)",
+          "48TB (24 x 2TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $5,040.00)",
+          "57.6TB (24 x 2.4TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $8,520.00)",
+          "-- SATA SSD Hard Drives --",
+          "11.52TB (24 x 480GB) 6Gb/s SATA Solid State Drive (Add $2,640.00)",
+          "23.04TB (24 x 960GB) 6Gb/s SATA Solid State Drive (Add $4,320.00)",
+          "46.08TB (24 x 1.92TB) 6Gb/s SATA Solid State Drive (Add $6,000.00)",
+          "92.16TB (24 x 3.84TB) 6Gb/s SATA Solid State Drive (Add $12,000.00)",
+          "-- SAS SSD Hard Drives --",
+          "9.6TB (24 x 400GB) 12Gb/s SAS Solid State Drive (Add $6,840.00)",
+          "19.2TB (24 x 800GB) 12Gb/s SAS Solid State Drive (Add $10,320.00)",
+          "23.04TB (24 x 960GB) 12Gb/s SAS Solid State Drive (Add $13,680.00)",
+          "30.72TB (4 x 7.68TB) 12Gb/s SAS Solid State Drive (Add $6,860.00)",
+          "46.08TB (24 x 1.92TB) 12Gb/s SAS Solid State Drive (Add $17,160.00)",
+          "92.16TB (24 x 3.84TB) 12Gb/s SAS Solid State Drive (Add $20,640.00)",
+          "184.32TB (24 x 7.68TB) 12Gb/s SAS Solid State Drive (Add $41,160.00)"
+        ]
+      },
+      {
+        "value": "12 x 3.5\" HotSwap SAS, SATA",
+        "hardDriveOptions": [
+          "- none -",
+          "-- SATA Hard Drives --",
+          "48TB (12 x 4TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $1,680.00)",
+          "96TB (12 x 8TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $2,580.00)",
+          "120TB (12 x 10TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $3,840.00)",
+          "144TB (12 x 12TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $4,320.00)",
+          "168TB (12 x 14TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $4,680.00)",
+          "216TB (12 x 18TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $5,520.00)",
+          "240TB (12 x 20TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $6,840.00)",
+          "-- SAS Hard Drives --",
+          "48TB (12 x 4TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $2,580.00)",
+          "96TB (12 x 8TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $3,420.00)",
+          "120TB (12 x 10TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $4,320.00)",
+          "144TB (12 x 12TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $5,160.00)",
+          "168TB (12 x 14TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $6,000.00)",
+          "216TB (12 x 18TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $7,320.00)",
+          "240TB (12 x 20TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $8,520.00)"
+        ]
+      }
+    ],
+    "processorOptions": [
+      {
+        "value": "Dual (2) Intel Gold 5120 14-Core 2.2GHz 19.25MB CPU (Add $20.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Gold 5222 4-Core 3.8GHz 17MB CPU (Add $1,770.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Gold 6126 12-Core 2.6GHz 19.25MB CPU",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Gold 6130 16-Core 2.1GHz 22MB CPU (Add $170.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2022 Datacenter License 16 Core Pack Open Business (Add $6,156.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Gold 6132 14-Core 2.6GHz 19.25MB CPU (Add $0.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Gold 6138 20-Core 2.0GHz 27.5MB CPU (Add $20.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2022 Datacenter License 16 Core Pack Open Business (Add $6,156.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Gold 6152 22-Core 2.1GHz 30.25MB CPU (Add $280.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2022 Datacenter License 16 Core Pack Open Business (Add $6,156.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Gold 6248 20-Core 2.5GHz 28MB CPU (Add $3,710.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2022 Datacenter License 16 Core Pack Open Business (Add $6,156.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Gold 6252 24-Core 2.1Ghz 36M DDR4-2933 150W (Add $3,570.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "Microsoft Windows Server 2019 Standard License 24 Core Pack Open Business (Add $1,764.00)",
+          "Microsoft Windows Server 2019 Standard License 32 Core Pack Open Business (Add $2,352.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "Microsoft Windows Server 2019 Datacenter License 24 Core Pack Open Business (Add $9,236.00)",
+          "Microsoft Windows Server 2019 Datacenter License 32 Core Pack Open Business (Add $12,312.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "Microsoft Windows Server 2022 Standard License 24 Core Pack Open Business (Add $1,764.00)",
+          "Microsoft Windows Server 2022 Standard License 32 Core Pack Open Business (Add $2,352.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2022 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "Microsoft Windows Server 2022 Datacenter License 24 Core Pack Open Business (Add $9,236.00)",
+          "Microsoft Windows Server 2022 Datacenter License 32 Core Pack Open Business (Add $12,312.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Platinum 8168 24-Core 2.7GHz 33MB CPU (Add $1,850.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "Microsoft Windows Server 2019 Standard License 24 Core Pack Open Business (Add $1,764.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "Microsoft Windows Server 2019 Datacenter License 24 Core Pack Open Business (Add $9,236.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "Microsoft Windows Server 2022 Standard License 24 Core Pack Open Business (Add $1,764.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2022 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "Microsoft Windows Server 2022 Datacenter License 24 Core Pack Open Business (Add $9,236.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Platinum 8176 28-Core 2.1GHz 38.5MB CPU (Add $2,280.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "Microsoft Windows Server 2019 Standard License 24 Core Pack Open Business (Add $1,764.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "Microsoft Windows Server 2019 Datacenter License 24 Core Pack Open Business (Add $9,236.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "Microsoft Windows Server 2022 Standard License 24 Core Pack Open Business (Add $1,764.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2022 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "Microsoft Windows Server 2022 Datacenter License 24 Core Pack Open Business (Add $9,236.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Platinum 8276 28-Core 2.2GHz 39MB CPU (Add $5,138.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "Microsoft Windows Server 2019 Standard License 24 Core Pack Open Business (Add $1,764.00)",
+          "Microsoft Windows Server 2019 Standard License 32 Core Pack Open Business (Add $2,352.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "Microsoft Windows Server 2019 Datacenter License 24 Core Pack Open Business (Add $9,236.00)",
+          "Microsoft Windows Server 2019 Datacenter License 32 Core Pack Open Business (Add $12,312.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "Microsoft Windows Server 2022 Standard License 24 Core Pack Open Business (Add $1,764.00)",
+          "Microsoft Windows Server 2022 Standard License 32 Core Pack Open Business (Add $2,352.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2022 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "Microsoft Windows Server 2022 Datacenter License 24 Core Pack Open Business (Add $9,236.00)",
+          "Microsoft Windows Server 2022 Datacenter License 32 Core Pack Open Business (Add $12,312.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Silver 4208 8-Core 2.1GHz 11MB CPU (Add $310.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Silver 4210 10-Core 2.2GHz 14MB CPU (Add $420.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Silver 4214 12-Core 2.2GHz 17MB CPU (Add $740.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Silver 4216 16-Core 2.1GHz 22MB CPU (Add $1,140.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2022 Datacenter License 16 Core Pack Open Business (Add $6,156.00)"
+        ]
+      }
+    ]
+  },
+
+  {
+    "url": "https://www.aventissystems.com/r730-servers-dell/",
+    "chassisOptions": [
+      {
+        "value": "8 x 2.5\" HotSwap SAS, SATA",
+        "hardDriveOptions": [
+          "- none -",
+          "-- SATA Hard Drives -",
+          "8TB (4 x 2TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $280.00)",
+          "16TB (8 x 2TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $560.00)",
+
+          "-- SAS Hard Drives --",
+          "1.2TB (4 x 300GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $280.00)",
+          "2.4TB (4 x 600GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $440.00)",
+          "2.4TB (8 x 300GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $560.00)",
+          "3.6TB (4 x 900GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $1,440.00)",
+          "4TB (4 x 1TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $560.00)",
+          "4.8TB (4 x 1.2TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $440.00)",
+          "4.8TB (8 x 600GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $880.00)",
+          "7.2TB (8 x 900GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $2,880.00)",
+          "7.2TB (4 x 1.8TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $1,280.00)",
+          "8TB (4 x 2TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $840.00)",
+          "8TB (8 x 1TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $1,120.00)",
+          "9.6TB (8 x 1.2TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $880.00)",
+          "9.6TB (4 x 2.4TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $1,440.00)",
+          "14.4TB (8 x 1.8TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $2,560.00)",
+          "16TB (8 x 2TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $1,680.00)",
+          "19.2TB (8 x 2.4TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $2,880.00)",
+
+          "-- SATA SSD Hard Drives --",
+          ".92TB (4 x 480GB) 6Gb/s SATA Solid State Drive (Add $440.00)",
+          "3.84TB (4 x 960GB) 6Gb/s SATA Solid State Drive (Add $720.00)",
+          "3.84TB (8 x 480GB) 6Gb/s SATA Solid State Drive (Add $880.00)",
+          "7.68TB (4 x 1.92TB) 6Gb/s SATA Solid State Drive (Add $1,000.00)",
+          "7.68TB (8 x 960GB) 6Gb/s SATA Solid State Drive (Add $1,440.00)",
+          "15.36TB (4 x 3.84TB) 6Gb/s SATA Solid State Drive (Add $2,000.00)",
+          "15.36TB (8 x 1.92TB) 6Gb/s SATA Solid State Drive (Add $2,000.00)",
+          "30.72TB (8 x 3.84TB) 6Gb/s SATA Solid State Drive (Add $4,000.00)",
+
+          "-- SAS SSD Hard Drives --",
+          "1.6TB (4 x 400GB) 12Gb/s SAS Solid State Drive (Add $1,160.00)",
+          "3.2TB (4 x 800GB) 12Gb/s SAS Solid State Drive (Add $1,720.00)",
+          "3.2TB (8 x 400GB) 12Gb/s SAS Solid State Drive (Add $2,320.00)",
+          "3.84TB (4 x 960GB) 12Gb/s SAS Solid State Drive (Add $2,280.00)",
+          "6.4TB (8 x 800GB) 12Gb/s SAS Solid State Drive (Add $3,440.00)",
+          "7.68TB (4 x 1.92TB) 12Gb/s SAS Solid State Drive (Add $2,840.00)",
+          "7.68TB (8 x 960GB) 12Gb/s SAS Solid State Drive (Add $4,560.00)",
+          "15.36TB (4 x 3.84TB) 12Gb/s SAS Solid State Drive (Add $3,440.00)",
+          "15.36TB (8 x 1.92TB) 12Gb/s SAS Solid State Drive (Add $5,680.00)",
+          "30.72TB (4 x 7.68TB) 12Gb/s SAS Solid State Drive (Add $6,840.00)",
+          "30.72TB (8 x 3.84TB) 12Gb/s SAS Solid State Drive (Add $6,880.00)",
+          "61.44TB (8 x 7.68TB) 12Gb/s SAS Solid State Drive (Add $13,680.00)"
+        ]
+      },
+      {
+        "value": "8 x 3.5\" HotSwap SAS, SATA",
+        "hardDriveOptions": [
+          "- none -",
+          "-- SATA Hard Drives --",
+          "8TB (4 x 2TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $280.00)",
+          "16TB (4 x 4TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $560.00)",
+          "32TB (4 x 8TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $840.00)",
+          "40TB (4 x 10TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $1,280.00)",
+          "48TB (4 x 12TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $1,440.00)",
+          "56TB (4 x 14TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $1,560.00)",
+          "64TB (4 x 16TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $1,720.00)",
+
+          "-- SAS Hard Drives --",
+          "8TB (4 x 2TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $440.00)",
+          "16TB (4 x 4TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $840.00)",
+          "32TB (4 x 8TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $1,160.00)",
+          "40TB (4 x 10TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $1,440.00)",
+          "48TB (4 x 12TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $1,720.00)",
+          "56TB (4 X 14TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $2,000.00)",
+          "64TB (4 x 16TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $2,160.00)"
+        ]
+      }
+    ],
+    "processorOptions": [
+      {
+        "value": "Dual (2) Intel E5-2630v4 2.2GHz/25M/2133MHz 10-Core 85W",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel E5-2650v3 2.3GHz/25M/2133MHz 10-Core 105W (Add $6.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel E5-2667v3 3.2GHz/20M/2133MHz 8-Core 135W (Add $20.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel E5-2620v4 2.1GHz/20M/2133MHz 8-Core 85W (Add $6.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel E5-2650v4 2.2GHz/30M/2400MHz 12-Core 105W (Add $20.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel E5-2690v3 2.6GHz/30M/2133MHz 12-Core 135W (Add $38.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel E5-2660v4 2.0GHz/35M/2400MHz 14-Core 105W (Add $38.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel E5-2680v4 2.4GHz/35M/2400MHz 14-Core 120W (Add $50.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel E5-2683v4 2.1GHz/40M/2400MHz 16-Core 120W (Add $86.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2022 Datacenter License 16 Core Pack Open Business (Add $6,156.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel E5-2695v4 18-Core 2.1GHz 45MB CPU (Add $218.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2022 Datacenter License 16 Core Pack Open Business (Add $6,156.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel E5-2697v4 18-Core 2.3GHz 45MB CPU (Add $238.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2022 Datacenter License 16 Core Pack Open Business (Add $6,156.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel E5-2699v4 22-Core 2.2GHz 55MB CPU (Add $698.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2022 Datacenter License 16 Core Pack Open Business (Add $6,156.00)"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.aventissystems.com/st550-servers-lenovo/",
+    "chassisOptions": [
+      {
+        "value": "16 x 2.5\" HotSwap SAS, SATA",
+        "hardDriveOptions": [
+          "- none -",
+          "-- SATA Hard Drives --",
+          "24TB (12 x 2TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $840.00)",
+          "32TB (16 x 2TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $1,120.00)",
+          "-- SAS Hard Drives --",
+          "3.6TB (12 x 300GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $840.00)",
+          "4.8TB (16 x 300GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $1,120.00)",
+          "7.2TB (12 x 600GB) 15K 12Gb/s SAS 2.5\" (Add $1,320.00)",
+          "9.6TB (16 x 600GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $1,760.00)",
+          "10.8TB (12 x 900GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $4,320.00)",
+          "12TB (12 x 1TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $1,680.00)",
+          "14.4TB (12 x 1.2TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $1,320.00)",
+          "14.4TB (16 x 900GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $5,760.00)",
+          "16TB (16 x 1TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $2,240.00)",
+          "19.2TB(16 x 1.2TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $1,760.00)",
+          "21.6TB (12 x 1.8TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $3,840.00)",
+          "24TB (12 x 2TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $2,520.00)",
+          "28.8TB (12 x 2.4TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $4,320.00)",
+          "28.8TB(16 x 1.8TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $5,120.00)",
+          "32TB (16 x 2TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $3,360.00)",
+          "38.4TB(16 x 2.4TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $5,760.00)",
+          "-- SATA SSD Hard Drives --",
+          "5.76TB (12 x 480GB) 6Gb/s SATA Solid State Drive (Add $1,320.00)",
+          "7.68TB (16 x 480GB) 6Gb/s SATA Solid State Drive (Add $1,760.00)",
+          "11.52TB (12 x 960GB) 6Gb/s SATA Solid State Drive (Add $2,160.00)",
+          "15.36TB (16 x 960GB) 6Gb/s SATA Solid State Drive (Add $2,880.00)",
+          "23.04TB (12 x 1.92TB) 6Gb/s SATA Solid State Drive (Add $3,000.00)",
+          "30.72TB (16 x 1.92TB) 6Gb/s SATA Solid State Drive (Add $4,000.00)",
+          "46.08TB (12 x 3.84TB) 6Gb/s SATA Solid State Drive (Add $6,000.00)",
+          "61.44TB (16 x 3.84TB) 6Gb/s SATA Solid State Drive (Add $8,000.00)",
+          "-- SAS SSD Hard Drives --",
+          "4.8TB (12 x 400GB) 12Gb/s SAS Solid State Drive (Add $3,480.00)",
+          "6.4TB (16 x 400GB) 12Gb/s SAS Solid State Drive (Add $4,640.00)",
+          "9.6TB (12 x 800GB) 12Gb/s SAS Solid State Drive (Add $5,160.00)",
+          "11.52TB (12 x 960GB) 12Gb/s SAS Solid State Drive (Add $6,840.00)",
+          "12.8TB (16 x 800GB) 12Gb/s SAS Solid State Drive (Add $6,880.00)",
+          "15.36TB (16 x 960GB) 12Gb/s SAS Solid State Drive (Add $9,120.00)",
+          "23.04TB (12 x 1.92TB) 12Gb/s SAS Solid State Drive (Add $8,520.00)",
+          "30.72TB (16 x 1.92TB) 12Gb/s SAS Solid State Drive (Add $11,360.00)",
+          "46.08TB (12 x 3.84TB) 12Gb/s SAS Solid State Drive (Add $10,320.00)",
+          "61.44TB (16 x 3.84TB) 12Gb/s SAS Solid State Drive (Add $13,760.00)",
+          "92.16TB (12 x 7.68TB) 12Gb/s SAS Solid State Drive (Add $20,520.00)",
+          "122.88TB (16 x 7.68TB) 12Gb/s SAS Solid State Drive (Add $27,360.00)",
+          "184.32TB (12 x 15.36TB) 12Gb/s SAS Solid State Drive (Add $42,840.00)",
+          "245.76TB (16 x 15.36TB) 12Gb/s SAS Solid State Drive (Add $57,120.00)"
+        ]
+      },
+      {
+        "value": "8 x 3.5\" HotSwap SAS, SATA",
+        "hardDriveOptions": [
+          "- none -",
+          "-- SATA Hard Drives --",
+          "16TB (4 x 4TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $560.00)",
+          "32TB (4 x 8TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $840.00)",
+          "32TB (8 x 4TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $1,120.00)",
+          "40TB (4 x 10TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $1,280.00)",
+          "48TB (4 x 12TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $1,440.00)",
+          "56TB (4 x 14TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $1,560.00)",
+          "64TB (4 x 16TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $1,720.00)",
+          "64TB (8 x 8TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $1,680.00)",
+          "80TB (8 x 10TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $2,560.00)",
+          "96TB (8 x 12TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $2,880.00)",
+          "112TB (8 x 14TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $3,120.00)",
+          "128TB (8 x 16TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $3,440.00)",
+          "-- SAS Hard Drives --",
+          "8TB (4 x 2TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $440.00)",
+          "16TB (4 x 4TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $840.00)",
+          "16TB (8 x 2TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $880.00)",
+          "32TB (4 x 8TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $1,160.00)",
+          "32TB (8 x 4TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $1,680.00)",
+          "40TB (4 x 10TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $1,440.00)",
+          "48TB (4 x 12TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $1,720.00)",
+          "56TB (4 X 14TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $2,000.00)",
+          "64TB (4 x 16TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $2,160.00)",
+          "64TB (8 x 8TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $2,320.00)",
+          "80TB (4 x 20TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $2,840.00)",
+          "80TB (8 x 10TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $2,880.00)",
+          "96TB (8 x 12TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $3,440.00)",
+          "112TB (8 x 14TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $4,000.00)",
+          "128TB (8 x 16TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $4,320.00)",
+          "160TB (8 x 20TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $5,680.00)"
+        ]
+      }
+    ],
+    "processorOptions": [
+      {
+        "value": "Dual (2) Intel Gold 6126 12-Core 2.6GHz 19.25MB CPU",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Gold 5222 4-Core 3.8GHz 17MB CPU (Add $1,780.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Silver 4208 8-Core 2.1GHz 11MB CPU (Add $320.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Silver 4210 10-Core 2.2GHz 14MB CPU (Add $440.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Silver 4214 12-Core 2.2GHz 17MB CPU (Add $740.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Gold 6132 14-Core 2.6GHz 19.25MB CPU (Add $0.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Gold 5120 14-Core 2.2GHz 19.25MB CPU (Add $40.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Gold 6130 16-Core 2.1GHz 22MB CPU (Add $180.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2022 Datacenter License 16 Core Pack Open Business (Add $6,156.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Silver 4216 16-Core 2.1GHz 22MB CPU (Add $1,140.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2022 Datacenter License 16 Core Pack Open Business (Add $6,156.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Xeon Platinum 8253 16-Core 2.2GHz 22MB CPU (Add $2,440.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2022 Datacenter License 16 Core Pack Open Business (Add $6,156.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Gold 6138 20-Core 2.0GHz 27.5MB CPU (Add $40.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2022 Datacenter License 16 Core Pack Open Business (Add $6,156.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Gold 6248 20-Core 2.5GHz 28MB CPU (Add $3,720.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2022 Datacenter License 16 Core Pack Open Business (Add $6,156.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Gold 6152 22-Core 2.1GHz 30.25MB CPU (Add $300.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2022 Datacenter License 16 Core Pack Open Business (Add $6,156.00)"
+        ]
+      },
+      {
+        "value": "Dual (2) Intel Gold 6252 24-Core 2.1Ghz 36M DDR4-2933 150W (Add $3,580.00)",
+        "OSOptions": [
+          "-- Microsoft Windows Server 2019 Standard --",
+          "Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2019 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "Microsoft Windows Server 2019 Standard License 24 Core Pack Open Business (Add $1,764.00)",
+          "-- Microsoft Windows Server 2019 Datacenter --",
+          "Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2019 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "Microsoft Windows Server 2019 Datacenter License 24 Core Pack Open Business (Add $9,236.00)",
+          "-- Microsoft Windows Server 2022 Standard --",
+          "Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)",
+          "Microsoft Windows Server 2022 Standard License 8 Core Pack Open Business (Add $588.00)",
+          "Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+          "Microsoft Windows Server 2022 Standard License 24 Core Pack Open Business (Add $1,764.00)",
+          "-- Microsoft Windows Server 2022 Datacenter --",
+          "Microsoft Windows Server 2022 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+          "Microsoft Windows Server 2022 Datacenter License 8 Core Pack Open Business (Add $3,080.00)",
+          "Microsoft Windows Server 2022 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+          "Microsoft Windows Server 2022 Datacenter License 24 Core Pack Open Business (Add $9,236.00)"
+        ]
+      }
+    ]
+  }
+]
