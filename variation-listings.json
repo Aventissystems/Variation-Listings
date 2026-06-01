@@ -724,4 +724,34 @@
       ]
     }
   }
+  {
+    "url": "https://www.aventissystems.com/dell-pro-p-p2726deb-27-webcam-wqhd-lcd-mount-compatible-monitor/",
+    "options": {
+      "Choose Screen Size (inches)": [
+        {
+          "option": "27-inch",
+          "link": "https://www.aventissystems.com/dell-pro-p-p2726deb-27-webcam-wqhd-lcd-mount-compatible-monitor/"
+        },
+        {
+          "option": "34-inch",
+          "link": "https://www.aventissystems.com/dell-pro-p-p3426web-34-webcam-uw-qhd-curved-screen-led-monitor/"
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.aventissystems.com/dell-pro-p-p3426web-34-webcam-uw-qhd-curved-screen-led-monitor/",
+    "options": {
+      "Choose Screen Size (inches)": [
+        {
+          "option": "27-inch",
+          "link": "https://www.aventissystems.com/dell-pro-p-p2726deb-27-webcam-wqhd-lcd-mount-compatible-monitor/"
+        },
+        {
+          "option": "34-inch",
+          "link": "https://www.aventissystems.com/dell-pro-p-p3426web-34-webcam-uw-qhd-curved-screen-led-monitor/"
+        }
+      ]
+    }
+  }
 ]
